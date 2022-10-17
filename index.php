@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>基礎九九乘法表</title>
+    <title>基礎九九乘法表-chris</title>
 </head>
 <body>
 <?php 
@@ -15,6 +15,9 @@ for($j=1;$j<=9;$j++){
      }
     echo "</tr>";
 }
+
+// 第二次修正
+// 上傳老師空間的檔案
 ?>
 </body>
 </html>
